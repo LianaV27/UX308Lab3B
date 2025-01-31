@@ -9,6 +9,6 @@ function calculateFahrenheit(kelvin) {
 //Console Test
 //let kelvin = 5;
 //let fahrenheit = calculateFahrenheit(kelvin);
-//console.log(`if it is ${kelvin} kelvin, it is ${fahrenheit} fahrenheit`);
+console.log(`If it is 5 kelvin, it is ${calculateFahrenheit(5)}`);
 
 export {calculateFahrenheit}
